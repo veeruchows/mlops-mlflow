@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105713285117202167/e999a0dd55b94bb4a1f4ec5f4414e35c/artifacts
+end_time: 1734474145568
+entry_point_name: ''
+experiment_id: '105713285117202167'
+lifecycle_stage: active
+run_id: e999a0dd55b94bb4a1f4ec5f4414e35c
+run_name: crawling-colt-322
+run_uuid: e999a0dd55b94bb4a1f4ec5f4414e35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734474137556
+status: 3
+tags: []
+user_id: singuveeru101

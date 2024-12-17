@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6dca188a0fda400ba17de9dbdd96bd4c/artifacts
+end_time: 1734471764779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dca188a0fda400ba17de9dbdd96bd4c
+run_name: omniscient-slug-509
+run_uuid: 6dca188a0fda400ba17de9dbdd96bd4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734471754738
+status: 3
+tags: []
+user_id: singu
